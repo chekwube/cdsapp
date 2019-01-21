@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A cds application",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "cds",
+    "application"
+  ],
+  "author": "Okeke Chekwube",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "mongoose": "^5.4.5",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.9"
+  }
+}
